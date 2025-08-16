@@ -27,8 +27,8 @@ This project demonstrates skills in **web automation, real-time monitoring, and 
 ## ⚙️ Installation & Setup  
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/whatsapp-auto-bot.git
-cd whatsapp-auto-bot
+git clone https://github.com/shafancp/whatsapp-auto-responder.git
+cd whatsapp-auto-responder
 
 ### 2. Install Dependencies
 pip install selenium webdriver-manager
