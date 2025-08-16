@@ -27,8 +27,8 @@ This project demonstrates skills in **web automation, real-time monitoring, and 
 ## ⚙️ Installation & Setup  
 
 ### 1. Clone Repository
-git clone https://github.com/shafancp/whatsapp-auto-responder.git
-cd whatsapp-auto-responder
+- git clone https://github.com/shafancp/whatsapp-auto-responder.git
+- cd whatsapp-auto-responder
 
 ### 2. Install Dependencies
 pip install selenium webdriver-manager
@@ -44,6 +44,6 @@ TRIGGER_PHRASE = "Trigger Message"
 python main.py
 On the first run, scan the WhatsApp QR code.
 
-A User_Data folder will be created to store your Chrome session.
-Future runs will automatically log you in without scanning.
+- A User_Data folder will be created to store your Chrome session.
+- Future runs will automatically log you in without scanning.
 
